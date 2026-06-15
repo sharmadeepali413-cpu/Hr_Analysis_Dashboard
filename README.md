@@ -1,2 +1,2 @@
-# Hr_Analysis_Dashboard
-HR Analysis Dashboard | Excel, Pivot Tables, Charts &amp; Slicers | Employee, Attrition, Salary, Performance &amp; Department Analytics.
+# Hr-Analysis-Dashboard-Excel
+Interactive HR Analysis Dashboard built in Microsoft Excel using Pivot Tables, Charts, Slicers, and KPI Cards to analyze employee attrition, department performance, salary trends, and workforce distribution.
