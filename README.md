@@ -83,11 +83,11 @@ The dashboard provides insights into employee distribution, department performan
 
 ### HR Analysis Dashboard
 
-![Dashboard](Images/Dashboard_Overview.png)
+![Dashboard](Dashboard_Overview.png)
 
 ### Pivot Tables
 
-![Pivot Tables](Images/Pivot_Tables.png)
+![Pivot Tables](Pivot_Tables.png)
 
 ---
 
