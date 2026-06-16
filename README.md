@@ -11,8 +11,7 @@ The dashboard provides insights into employee distribution, department performan
 
 ---
 
-## Objectives
-
+## Objectives:-
 - Monitor employee attrition trends
 - Analyze department-wise employee distribution
 - Compare average salary across departments
@@ -22,8 +21,7 @@ The dashboard provides insights into employee distribution, department performan
 
 ---
 
-## Key Performance Indicators (KPIs)
-
+## Key Performance Indicators (KPIs):-
 - Total Employees: 6,325,247
 - Attrition Count: 2,527
 - Average Salary: 103,415.40
@@ -33,29 +31,29 @@ The dashboard provides insights into employee distribution, department performan
 
 ## Dashboard Features
 
-### Primary KPIs
+### Primary KPIs:-
 - Total Employee Count
 - Attrition Count
 - Average Salary
 - Attrition by Gender
 
-### Department Analysis
+### Department Analysis:-
 - Department-wise Employee Distribution
 - Department-wise Performance Rating
 - Department-wise Average Salary
 
-### Workforce Analysis
+### Workforce Analysis:-
 - Designation-wise Employee Distribution
 - Attrition Analysis
 - Interactive Filters
 
-### Filters Available
+### Filters Available:-
 - Attrition Status
 - Location
 
 ---
 
-## Tools Used
+## Tools Used:-
 
 - Microsoft Excel
 - Pivot Tables
@@ -67,8 +65,7 @@ The dashboard provides insights into employee distribution, department performan
 
 ---
 
-## Skills Demonstrated
-
+## Skills Demonstrated:-
 - Data Analysis
 - Dashboard Design
 - HR Analytics
@@ -78,7 +75,6 @@ The dashboard provides insights into employee distribution, department performan
 - KPI Development
 
 ---
-
 ## Dashboard Preview
 
 ### HR Analysis Dashboard
@@ -87,10 +83,9 @@ The dashboard provides insights into employee distribution, department performan
 
 ### Pivot Tables
 
-![Pivot Tables](Pivot_Tables.png)
+![Pivot_Tables](Pivot_Tables.png)
 
 ---
 
-## Conclusion
-
+## Conclusion:-
 This dashboard helps HR teams monitor workforce performance, identify attrition patterns, and support data-driven decision-making through interactive Excel-based reporting.
