@@ -118,7 +118,7 @@ HR-Analysis-Dashboard/
 
 ### Pivot Table Analysis
 
-![Pivot Tables](Pivot_Tables.png)
+<img src="https://github.com/sharmadeepali413-cpu/Hr_Analysis_Dashboard/blob/main/Pivot%20_Tables.png" width="1000">
 
 
 ---
