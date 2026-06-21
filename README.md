@@ -1,91 +1,155 @@
-# Hr-Analysis-Dashboard-Excel
-Interactive HR Analysis Dashboard built in Microsoft Excel using Pivot Tables, Charts, Slicers, and KPI Cards to analyze employee attrition, department performance, salary trends, and workforce distribution.
+# 📊 HR Analysis Dashboard
 
-# HR Analysis Dashboard
+## Overview
 
-## Project Overview
+The **HR Analysis Dashboard** is an interactive Microsoft Excel project developed to analyze workforce data and generate actionable HR insights. The dashboard provides a comprehensive view of employee attrition, department performance, salary distribution, and workforce demographics through dynamic visualizations and KPI monitoring.
 
-This project presents an Interactive HR Analysis Dashboard developed in Microsoft Excel to analyze workforce data and employee attrition trends.
-
-The dashboard provides insights into employee distribution, department performance, average salary, attrition rates, and designation-wise workforce analysis through interactive visualizations and KPI cards.
+Built using Microsoft Excel, Pivot Tables, Pivot Charts, and Slicers, this dashboard helps HR professionals and decision-makers identify trends, monitor workforce performance, and support data-driven business decisions.
 
 ---
 
-## Objectives:-
-- Monitor employee attrition trends
-- Analyze department-wise employee distribution
-- Compare average salary across departments
-- Evaluate department performance ratings
-- Understand gender-based attrition patterns
-- Track designation-wise workforce allocation
+## 🎯 Project Objectives
+
+* Analyze employee attrition across the organization.
+* Monitor department-wise employee distribution.
+* Evaluate department performance ratings.
+* Compare average salaries across departments.
+* Analyze workforce distribution by designation.
+* Enable interactive filtering for detailed analysis.
 
 ---
 
-## Key Performance Indicators (KPIs):-
-- Total Employees: 6,325,247
-- Attrition Count: 2,527
-- Average Salary: 103,415.40
-- Attrition by Gender
+## 📌 Key Performance Indicators (KPIs)
+
+| KPI                 | Value          |
+| ------------------- | -------------- |
+| Total Employees     | 6,325,247      |
+| Attrition Count     | 2,527          |
+| Average Salary      | 103,415.40     |
+| Attrition by Gender | Male vs Female |
 
 ---
 
-## Dashboard Features
+## 📈 Dashboard Features
 
-### Primary KPIs:-
-- Total Employee Count
-- Attrition Count
-- Average Salary
-- Attrition by Gender
+### Employee Analysis
 
-### Department Analysis:-
-- Department-wise Employee Distribution
-- Department-wise Performance Rating
-- Department-wise Average Salary
+* Department-wise Employee Count
+* Attrition-wise Employee Distribution
+* Gender-wise Attrition Analysis
 
-### Workforce Analysis:-
-- Designation-wise Employee Distribution
-- Attrition Analysis
-- Interactive Filters
+### Performance Analysis
 
-### Filters Available:-
-- Attrition Status
-- Location
+* Department-wise Performance Ratings
+* Comparative Department Performance Insights
 
----
+### Salary Analysis
 
-## Tools Used:-
+* Department-wise Average Salary Comparison
+* Salary Trend Monitoring
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- KPI Cards
-- Data Cleaning
-- Data Visualization
+### Workforce Distribution
+
+* Designation-wise Employee Breakdown
+* Department-wise Workforce Structure
+
+### Interactive Filters
+
+* Attrition Status Filter
+* Location Filter
+* Dynamic Dashboard Interactions
 
 ---
 
-## Skills Demonstrated:-
-- Data Analysis
-- Dashboard Design
-- HR Analytics
-- Business Intelligence
-- Data Visualization
-- Excel Reporting
-- KPI Development
+## 🛠️ Tools & Technologies Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Conditional Formatting
+* Data Visualization
+* Dashboard Design
+* HR Analytics
 
 ---
-## Dashboard Preview
+
+## 💡 Skills Demonstrated
+
+* Data Cleaning
+* Data Analysis
+* Data Transformation
+* HR Analytics
+* Dashboard Development
+* KPI Design
+* Business Intelligence Reporting
+* Data Visualization
+
+---
+
+## 📂 Repository Structure
+
+```text
+HR-Analysis-Dashboard/
+│
+├── HR_Analysis_Dashboard.xlsx
+├── Dashboard_Overview.png
+├── Pivot_Tables.png
+└── README.md
+```
+
+## 🔍 Business Questions Answered
+
+* What is the total employee count?
+* How many employees have left the organization?
+* Which department has the highest employee count?
+* Which department has the highest average salary?
+* How does attrition vary by gender?
+* What is the performance rating across departments?
+* How are employees distributed across different designations?
+
+---
+
+## 📸 Dashboard Preview
 
 ### HR Analysis Dashboard
 
-![Dashboard](Dashboard_Overview.png)
+![Dashboard Overview](Dashboard_Overview.png)
 
-### Pivot Tables
+### Pivot Table Analysis
 
-![Pivot_Tables](Pivot_Tables.png)
+![Pivot Tables](Pivot_Tables.png)
+
 
 ---
 
-## Conclusion:-
-This dashboard helps HR teams monitor workforce performance, identify attrition patterns, and support data-driven decision-making through interactive Excel-based reporting.
+## 🚀 Key Insights
+
+* Identified employee attrition trends across departments.
+* Compared workforce distribution among departments.
+* Evaluated department-wise performance ratings.
+* Analyzed average salary differences across departments.
+* Enabled interactive filtering for deeper HR analysis.
+
+---
+
+## 📋 Project Outcome
+
+This dashboard transforms raw HR data into meaningful business insights, helping organizations monitor employee performance, understand attrition patterns, and support strategic workforce planning through interactive Excel-based reporting.
+
+---
+
+## 👩‍💻 Author
+
+**Deepali Sharma**
+
+Aspiring Data Analyst | MIS Executive
+
+### Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/deepali-sharma-689731340/](https://www.linkedin.com/in/deepali-sharma-689731340/)
+* GitHub: https://github.com/sharmadeepali413-cpu
+
+---
+
+⭐ If you found this project helpful, feel free to star this repository and connect with me.
